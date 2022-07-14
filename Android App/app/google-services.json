@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501048228261",
+    "firebase_url": "https://smoke-detector-8175f.firebaseio.com",
+    "project_id": "smoke-detector-8175f",
+    "storage_bucket": "smoke-detector-8175f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501048228261:android:08428a5563007908af104c",
+        "android_client_info": {
+          "package_name": "com.example.smokedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501048228261-bm5f8tjfm49m3vt24o95r6brp902b1vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfj56T6zi2akkorWI_hqFEjOF5jYiKpP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501048228261-bm5f8tjfm49m3vt24o95r6brp902b1vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
